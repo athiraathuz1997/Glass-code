@@ -1218,7 +1218,9 @@ hr {
   cursor : pointer;
   box-shadow : 3px 3px 5px 0px rgba(0,0,0,0.5);
 }
-
+.aboutSub{
+  color: rgb(2, 123, 154);;
+}
 /* About us */
 /* Home */
 
